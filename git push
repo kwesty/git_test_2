@@ -1,0 +1,17 @@
+[33mcommit 64554659fbb7dbecc859f6e47a2d39b761e7ee92[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: kwesty <59540907+kwesty@users.noreply.github.com>
+Date:   Tue Jan 18 14:47:01 2022 -0700
+
+    Edit README.md and hello_world.txt
+
+[33mcommit 8773be1810c35be9d23e0cebdb6e2dc5a763b5ba[m
+Author: kwesty <59540907+kwesty@users.noreply.github.com>
+Date:   Tue Jan 18 14:21:44 2022 -0700
+
+    Add hello_world.txt
+
+[33mcommit 0e6e1b8457de5a27847c47eef9049c050a7f5098[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: kwesty <59540907+kwesty@users.noreply.github.com>
+Date:   Tue Jan 18 13:24:08 2022 -0700
+
+    Initial commit
